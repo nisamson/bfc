@@ -1,0 +1,6 @@
+[submodule "bf"]
+	path = bf
+	url = git@github.com:nes77/bf.git
+[submodule "bf-gen"]
+	path = bf-gen
+	url = git@github.com:nes77/bf-gen.git
