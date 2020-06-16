@@ -4,7 +4,3 @@ members = [
     "bf",
     "bf-gen"
 ]
-
-[profile.release]
-lto = true
-codegen-units = 1
