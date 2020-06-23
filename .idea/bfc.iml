@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/bf-gen/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bf/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bf-proc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bf-support/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bfrt/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/bf/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
